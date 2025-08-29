@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=93a19f&size=30&lines=Hey+there,+I'm+Abisha+Gill!;Front-End+Developer+%7C+Tech+Explorer;Crafting+Web+Experiences+with+Code;Let’s+Build+Something+Awesome!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=93a19f&size=30&lines=Hey+there,+I'm+Abisha+Gill!;Front-End+Developer;Crafting+Web+Experiences+with+Code;Let’s+Build+Something+Awesome!)](https://git.io/typing-svg)
 
 Hey! I’m Abisha Iqbal Gill, a BSCS student who’s diving deep into the world of web development. My main focus right now is building modern, responsive apps with React, and Tailwind CSS.
 
