@@ -6,7 +6,7 @@ I come from a pre-med background but found my real spark in tech. For me, coding
 
 Still early in the journey, but I’m consistent — every project I finish takes me one step closer to becoming the kind of developer I want to be.
 
-🔗 **Check out my portfolio**: [portfolio-abdulbasit-cs.netlify.app](https://portfolio-abdulbasit-cs.netlify.app/)
+🔗 **Check out my portfolio**: [portfolio-abisha-gill-.netlify.app](https://abisha-gill-portfolio.netlify.app/)
 
 ## 🚀 Tech Toolbox
 
